@@ -1,4 +1,4 @@
-# README — GitOps na prática: Online Boutique (Rancher Desktop + ArgoCD)
+# README — GitOps na prática: Online Boutique
 
 Este README descreve **passo a passo** para executar o projeto *Online Boutique* localmente usando **Rancher Desktop (Kubernetes)** e **ArgoCD** com GitOps. Os comandos abaixo são pensados para **PowerShell no Windows**.
 
